@@ -1,0 +1,1180 @@
+{
+    "nodes": [
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
+        22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40,
+        41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 
+        60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78,
+        79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 
+        98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 
+        113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 
+        128, 129, 130, 131, 132, 133
+    ],
+    "names": [
+        "store_entry_1", "restrooms_1", "drinks", "Y_entry_2", "Y_entry_1", "X_entry_2", 
+        "X_entry_1", "W_entry_2", "W_entry_1", "V_entry_2", "V_entry_1", "U_entry_2", 
+        "U_entry_1", "T_entry_2", "T_entry_1", "S_entry_2", "S_entry_1", "R_entry_2", 
+        "R_entry_1", "Q_entry_2", "Q_entry_1", "P_entry_2", "P_entry_1", "O_entry_2", 
+        "O_entry_1", "N_entry_2", "N_entry_1", "M_entry_2", "M_entry_1", "L_entry_2", 
+        "L_entry_1", "K_entry_2", "K_entry_1", "J_entry_2", "J_entry_1", "I_entry_2", 
+        "I_entry_1", "H_entry_2", "H_entry_1", "G_entry_2", "G_entry_1", "F_entry_2", 
+        "F_entry_1", "E_entry_6", "E_entry_5", "E_entry_4", "E_entry_3", "E_entry_2", 
+        "E_entry_1", "D_entry_2", "D_entry_1", "C_entry_2", "C_entry_1", "B_entry_2", 
+        "B_entry_1", "A_entry_2", "A_entry_1", "self_checkouts", "firewood_softener_salt", 
+        "baby_form_tobacco", "store_entry_2", "bakery", "produce_entry_1", "meat_1", 
+        "snacks_entry_1", "dairy_1", "frozen_foods_1", "ice_1", "23_entry_1", "23_entry_2", 
+        "22_entry_1", "22_entry_2", "21_entry_1", "21_entry_2", "20_entry_1", "20_entry_2", 
+        "19_entry_1", "19_entry_2", "18_entry_1", "18_entry_2", "17_entry_1", "17_entry_2", 
+        "16_entry_1", "16_entry_2", "15_entry_1", "15_entry_2", "14_entry_1", "14_entry_2", 
+        "13_entry_1", "13_entry_2", "12_entry_1", "12_entry_2", "11_entry_1", "11_entry_2", 
+        "10_entry_1", "10_entry_2", "9_entry_1", "9_entry_2", "8_entry_1", "8_entry_2", 
+        "7_entry_1", "7_entry_2", "6_entry_1", "6_entry_2", "5_entry_1", "5_entry_2", 
+        "4_entry_1", "4_entry_2", "3_entry_1", "3_entry_2", "2_entry_1", "2_entry_2", 
+        "1_entry_1", "1_entry_2", "restrooms_2", "liquor_store", "ice_2", "liquor_store_entry", 
+        "frozen_foods_entry_1", "frozen_foods_entry_2", "frozen_foods_entry_3", "dairy_entry_1", 
+        "dairy_entry_2", "dairy_entry_3", "meat_entry_1", "meat_entry_2", "produce_entry_2", 
+        "produce", "snacks_entry_2", "snacks_entry_3", "checkouts", "fast_lanes",
+        "store_entry_3"
+    ],
+    "coordinates": [
+        [737, 951],[526, 951],[322, 950], [233, 829], [231, 719], [275, 832], [270, 719], 
+        [307, 833], [307, 721], [344, 831], [344, 719], [382, 831], [384, 720], [421, 834], 
+        [419, 718], [460, 833], [456, 720], [498, 834], [499, 721], [535, 832], [536, 720], 
+        [578, 834], [573, 722], [610, 832], [614, 718], [653, 827], [650, 716], [690, 832], 
+        [688, 718], [724, 833], [724, 715], [764, 825], [764, 718], [799, 831], [798, 718], 
+        [837, 831], [837, 718], [875, 827], [874, 720], [914, 830], [914, 714], [954, 824], 
+        [951, 719], [991, 829], [989, 714], [1026, 830], [1029, 719], [1069, 833], 
+        [1066, 719], [1106, 824], [1106, 716], [1147, 827], [1146, 713], [1183, 827], 
+        [1180, 715], [1220, 827], [1213, 720], [978, 876], [823, 919], [912, 915], 
+        [1166, 943], [1307, 772], [1306, 678], [1127, 93], [726, 201], [563, 100], 
+        [126, 498], [52, 945], [270, 682], [270, 225], [322, 678], [324, 222], [385, 678], 
+        [380, 227], [421, 681], [423, 225], [460, 677], [459, 227], [499, 677], [499, 227], 
+        [537, 679], [535, 226], [576, 682], [574, 228], [614, 679], [610, 226], [650, 681], 
+        [651, 225], [689, 683], [685, 224], [725, 677], [726, 228], [762, 678], [765, 226], 
+        [800, 677], [798, 226], [837, 678], [836, 224], [875, 678], [873, 226], [913, 683], 
+        [913, 220], [950, 679], [950, 225], [987, 682], [986, 222], [1026, 682], [1026, 225], 
+        [1065, 683], [1065, 224], [1125, 678], [1125, 222], [1179, 678], [1181, 225], 
+        [1259, 940], [1524, 729], [1528, 840], [1534, 889], [112, 839], [118, 708], 
+        [121, 200], [154, 87], [268, 91], [769, 102], [896, 97], [1312, 101], [1320, 196], 
+        [1309, 430], [351, 175], [1061, 171], [645, 877], [1134, 876], [1616, 898]
+    ],
+    "edges": [
+        {
+            "node_1": 1,
+            "node_2": 2,
+            "weight": 3
+        },
+        {
+            "node_1": 1,
+            "node_2": 59,
+            "weight": 1
+        },
+        {
+            "node_1": 1,
+            "node_2": 131,
+            "weight": 1.5
+        },
+        {
+            "node_1": 2,
+            "node_2": 3,
+            "weight": 2
+        },
+        {
+            "node_1": 2,
+            "node_2": 18,
+            "weight": 1
+        },
+        {
+            "node_1": 2,
+            "node_2": 131,
+            "weight": 1.5
+        },
+        {
+            "node_1": 3,
+            "node_2": 68,
+            "weight": 5
+        },
+        {
+            "node_1": 114,
+            "node_2": 127,
+            "weight": 2.5
+        },
+        {
+            "node_1": 56,
+            "node_2": 115,
+            "weight": 2.5
+        },
+        {
+            "node_1": 117,
+            "node_2": 116,
+            "weight": 2.5
+        },
+        {
+            "node_1": 4,
+            "node_2": 5,
+            "weight": 1.5
+        },
+        {
+            "node_1": 4,
+            "node_2": 6,
+            "weight": 0.5
+        },
+        {
+            "node_1": 4,
+            "node_2": 119,
+            "weight": 1.5
+        },
+        {
+            "node_1": 5,
+            "node_2": 7,
+            "weight": 0.5
+        },
+        {
+            "node_1": 5,
+            "node_2": 120,
+            "weight": 1.5
+        },
+        {
+            "node_1": 6,
+            "node_2": 8,
+            "weight": 0.5
+        },
+        {
+            "node_1": 7,
+            "node_2": 9,
+            "weight": 0.5
+        },
+        {
+            "node_1": 9,
+            "node_2": 11,
+            "weight": 0.5
+        },
+        {
+            "node_1": 11,
+            "node_2": 13,
+            "weight": 0.5
+        },
+        {
+            "node_1": 13,
+            "node_2": 15,
+            "weight": 0.5
+        },
+        {
+            "node_1": 15,
+            "node_2": 17,
+            "weight": 0.5
+        },
+        {
+            "node_1": 17,
+            "node_2": 19,
+            "weight": 0.5
+        },
+        {
+            "node_1": 19,
+            "node_2": 21,
+            "weight": 0.5
+        },
+        {
+            "node_1": 21,
+            "node_2": 23,
+            "weight": 0.5
+        },
+        {
+            "node_1": 23,
+            "node_2": 25,
+            "weight": 0.5
+        },
+        {
+            "node_1": 25,
+            "node_2": 27,
+            "weight": 0.5
+        },
+        {
+            "node_1": 27,
+            "node_2": 29,
+            "weight": 0.5
+        },
+        {
+            "node_1": 29,
+            "node_2": 31,
+            "weight": 0.5
+        },
+        {
+            "node_1": 31,
+            "node_2": 33,
+            "weight": 0.5
+        },
+        {
+            "node_1": 33,
+            "node_2": 35,
+            "weight": 0.5
+        },
+        {
+            "node_1": 35,
+            "node_2": 37,
+            "weight": 0.5
+        },
+        {
+            "node_1": 37,
+            "node_2": 39,
+            "weight": 0.5
+        },
+        {
+            "node_1": 39,
+            "node_2": 41,
+            "weight": 0.5
+        },
+        {
+            "node_1": 41,
+            "node_2": 43,
+            "weight": 0.5
+        },
+        {
+            "node_1": 43,
+            "node_2": 45,
+            "weight": 0.5
+        },
+        {
+            "node_1": 45,
+            "node_2": 47,
+            "weight": 0.5
+        },
+        {
+            "node_1": 47,
+            "node_2": 49,
+            "weight": 0.5
+        },
+        {
+            "node_1": 49,
+            "node_2": 51,
+            "weight": 0.5
+        },
+        {
+            "node_1": 51,
+            "node_2": 53,
+            "weight": 0.5
+        },
+        {
+            "node_1": 53,
+            "node_2": 55,
+            "weight": 0.5
+        },
+        {
+            "node_1": 55,
+            "node_2": 57,
+            "weight": 0.5
+        },
+        {
+            "node_1": 8,
+            "node_2": 10,
+            "weight": 0.5
+        },
+        {
+            "node_1": 10,
+            "node_2": 12,
+            "weight": 0.5
+        },
+        {
+            "node_1": 12,
+            "node_2": 14,
+            "weight": 0.5
+        },
+        {
+            "node_1": 14,
+            "node_2": 16,
+            "weight": 0.5
+        },
+        {
+            "node_1": 16,
+            "node_2": 18,
+            "weight": 0.5
+        },
+        {
+            "node_1": 18,
+            "node_2": 20,
+            "weight": 0.5
+        },
+        {
+            "node_1": 20,
+            "node_2": 22,
+            "weight": 0.5
+        },
+        {
+            "node_1": 22,
+            "node_2": 24,
+            "weight": 0.5
+        },
+        {
+            "node_1": 24,
+            "node_2": 26,
+            "weight": 0.5
+        },
+        {
+            "node_1": 26,
+            "node_2": 28,
+            "weight": 0.5
+        },
+        {
+            "node_1": 28,
+            "node_2": 30,
+            "weight": 0.5
+        },
+        {
+            "node_1": 30,
+            "node_2": 32,
+            "weight": 0.5
+        },
+        {
+            "node_1": 32,
+            "node_2": 34,
+            "weight": 0.5
+        },
+        {
+            "node_1": 34,
+            "node_2": 36,
+            "weight": 0.5
+        },
+        {
+            "node_1": 36,
+            "node_2": 38,
+            "weight": 0.5
+        },
+        {
+            "node_1": 38,
+            "node_2": 40,
+            "weight": 0.5
+        },
+        {
+            "node_1": 40,
+            "node_2": 42,
+            "weight": 0.5
+        },
+        {
+            "node_1": 42,
+            "node_2": 44,
+            "weight": 0.5
+        },
+        {
+            "node_1": 44,
+            "node_2": 46,
+            "weight": 0.5
+        },
+        {
+            "node_1": 46,
+            "node_2": 48,
+            "weight": 0.5
+        },
+        {
+            "node_1": 48,
+            "node_2": 50,
+            "weight": 0.5
+        },
+        {
+            "node_1": 50,
+            "node_2": 52,
+            "weight": 0.5
+        },
+        {
+            "node_1": 52,
+            "node_2": 54,
+            "weight": 0.5
+        },
+        {
+            "node_1": 54,
+            "node_2": 56,
+            "weight": 0.5
+        },
+        {
+            "node_1": 10,
+            "node_2": 11,
+            "weight": 1.5
+        },
+        {
+            "node_1": 12,
+            "node_2": 13,
+            "weight": 1.5
+        },
+        {
+            "node_1": 14,
+            "node_2": 15,
+            "weight": 1.5
+        },
+        {
+            "node_1": 16,
+            "node_2": 17,
+            "weight": 1.5
+        },
+        {
+            "node_1": 18,
+            "node_2": 19,
+            "weight": 1.5
+        },
+        {
+            "node_1": 20,
+            "node_2": 21,
+            "weight": 1.5
+        },
+        {
+            "node_1": 22,
+            "node_2": 23,
+            "weight": 1.5
+        },
+        {
+            "node_1": 24,
+            "node_2": 25,
+            "weight": 1.5
+        },
+        {
+            "node_1": 26,
+            "node_2": 27,
+            "weight": 1.5
+        },
+        {
+            "node_1": 28,
+            "node_2": 29,
+            "weight": 1.5
+        },
+        {
+            "node_1": 30,
+            "node_2": 31,
+            "weight": 1.5
+        },
+        {
+            "node_1": 32,
+            "node_2": 33,
+            "weight": 1.5
+        },
+        {
+            "node_1": 34,
+            "node_2": 35,
+            "weight": 1.5
+        },
+        {
+            "node_1": 36,
+            "node_2": 37,
+            "weight": 1.5
+        },
+        {
+            "node_1": 38,
+            "node_2": 39,
+            "weight": 1.5
+        },
+        {
+            "node_1": 40,
+            "node_2": 41,
+            "weight": 1.5
+        },
+        {
+            "node_1": 42,
+            "node_2": 43,
+            "weight": 1.5
+        },
+        {
+            "node_1": 44,
+            "node_2": 45,
+            "weight": 1.5
+        },
+        {
+            "node_1": 46,
+            "node_2": 47,
+            "weight": 1.5
+        },
+        {
+            "node_1": 48,
+            "node_2": 49,
+            "weight": 1.5
+        },
+        {
+            "node_1": 50,
+            "node_2": 51,
+            "weight": 1.5
+        },
+        {
+            "node_1": 52,
+            "node_2": 53,
+            "weight": 1.5
+        },
+        {
+            "node_1": 54,
+            "node_2": 55,
+            "weight": 1.5
+        },
+        {
+            "node_1": 56,
+            "node_2": 57,
+            "weight": 1.5
+        },
+        {
+            "node_1": 69,
+            "node_2": 71,
+            "weight": 1
+        },
+        {
+            "node_1": 71,
+            "node_2": 73,
+            "weight": 1
+        },
+        {
+            "node_1": 73,
+            "node_2": 75,
+            "weight": 1
+        },
+        {
+            "node_1": 75,
+            "node_2": 77,
+            "weight": 1
+        },
+        {
+            "node_1": 77,
+            "node_2": 79,
+            "weight": 1
+        },
+        {
+            "node_1": 79,
+            "node_2": 81,
+            "weight": 1
+        },
+        {
+            "node_1": 81,
+            "node_2": 83,
+            "weight": 1
+        },
+        {
+            "node_1": 83,
+            "node_2": 85,
+            "weight": 1
+        },
+        {
+            "node_1": 85,
+            "node_2": 87,
+            "weight": 1
+        },
+        {
+            "node_1": 87,
+            "node_2": 89,
+            "weight": 1
+        },
+        {
+            "node_1": 89,
+            "node_2": 91,
+            "weight": 1
+        },
+        {
+            "node_1": 91,
+            "node_2": 93,
+            "weight": 1
+        },
+        {
+            "node_1": 93,
+            "node_2": 95,
+            "weight": 1
+        },
+        {
+            "node_1": 95,
+            "node_2": 97,
+            "weight": 1
+        },
+        {
+            "node_1": 97,
+            "node_2": 99,
+            "weight": 1
+        },
+        {
+            "node_1": 99,
+            "node_2": 101,
+            "weight": 1
+        },
+        {
+            "node_1": 101,
+            "node_2": 103,
+            "weight": 1
+        },
+        {
+            "node_1": 103,
+            "node_2": 105,
+            "weight": 1
+        },
+        {
+            "node_1": 105,
+            "node_2": 107,
+            "weight": 1
+        },
+        {
+            "node_1": 107,
+            "node_2": 109,
+            "weight": 1
+        },
+        {
+            "node_1": 109,
+            "node_2": 111,
+            "weight": 1
+        },
+        {
+            "node_1": 111,
+            "node_2": 113,
+            "weight": 1
+        },
+        {
+            "node_1": 70,
+            "node_2": 72,
+            "weight": 1
+        },
+        {
+            "node_1": 72,
+            "node_2": 74,
+            "weight": 1
+        },
+        {
+            "node_1": 74,
+            "node_2": 76,
+            "weight": 1
+        },
+        {
+            "node_1": 76,
+            "node_2": 78,
+            "weight": 1
+        },
+        {
+            "node_1": 78,
+            "node_2": 80,
+            "weight": 1
+        },
+        {
+            "node_1": 80,
+            "node_2": 82,
+            "weight": 1
+        },
+        {
+            "node_1": 82,
+            "node_2": 84,
+            "weight": 1
+        },
+        {
+            "node_1": 84,
+            "node_2": 86,
+            "weight": 1
+        },
+        {
+            "node_1": 86,
+            "node_2": 88,
+            "weight": 1
+        },
+        {
+            "node_1": 88,
+            "node_2": 90,
+            "weight": 1
+        },
+        {
+            "node_1": 90,
+            "node_2": 92,
+            "weight": 1
+        },
+        {
+            "node_1": 92,
+            "node_2": 94,
+            "weight": 1
+        },
+        {
+            "node_1": 94,
+            "node_2": 96,
+            "weight": 1
+        },
+        {
+            "node_1": 96,
+            "node_2": 98,
+            "weight": 1
+        },
+        {
+            "node_1": 98,
+            "node_2": 100,
+            "weight": 1
+        },
+        {
+            "node_1": 100,
+            "node_2": 102,
+            "weight": 1
+        },
+        {
+            "node_1": 102,
+            "node_2": 104,
+            "weight": 1
+        },
+        {
+            "node_1": 104,
+            "node_2": 106,
+            "weight": 1
+        },
+        {
+            "node_1": 106,
+            "node_2": 108,
+            "weight": 1
+        },
+        {
+            "node_1": 108,
+            "node_2": 110,
+            "weight": 1
+        },
+        {
+            "node_1": 110,
+            "node_2": 112,
+            "weight": 1
+        },
+        {
+            "node_1": 112,
+            "node_2": 114,
+            "weight": 1
+        },
+        {
+            "node_1": 69,
+            "node_2": 70,
+            "weight": 5
+        },
+        {
+            "node_1": 71,
+            "node_2": 72,
+            "weight": 5
+        },
+        {
+            "node_1": 73,
+            "node_2": 74,
+            "weight": 5
+        },
+        {
+            "node_1": 75,
+            "node_2": 76,
+            "weight": 5
+        },
+        {
+            "node_1": 77,
+            "node_2": 78,
+            "weight": 5
+        },
+        {
+            "node_1": 79,
+            "node_2": 80,
+            "weight": 5
+        },
+        {
+            "node_1": 81,
+            "node_2": 82,
+            "weight": 5
+        },
+        {
+            "node_1": 83,
+            "node_2": 84,
+            "weight": 5
+        },
+        {
+            "node_1": 85,
+            "node_2": 86,
+            "weight": 5
+        },
+        {
+            "node_1": 87,
+            "node_2": 88,
+            "weight": 5
+        },
+        {
+            "node_1": 89,
+            "node_2": 90,
+            "weight": 5
+        },
+        {
+            "node_1": 91,
+            "node_2": 92,
+            "weight": 5
+        },
+        {
+            "node_1": 93,
+            "node_2": 94,
+            "weight": 5
+        },
+        {
+            "node_1": 95,
+            "node_2": 96,
+            "weight": 5
+        },
+        {
+            "node_1": 97,
+            "node_2": 98,
+            "weight": 5
+        },
+        {
+            "node_1": 99,
+            "node_2": 100,
+            "weight": 5
+        },
+        {
+            "node_1": 101,
+            "node_2": 102,
+            "weight": 5
+        },
+        {
+            "node_1": 103,
+            "node_2": 104,
+            "weight": 5
+        },
+        {
+            "node_1": 105,
+            "node_2": 106,
+            "weight": 5
+        },
+        {
+            "node_1": 107,
+            "node_2": 108,
+            "weight": 5
+        },
+        {
+            "node_1": 109,
+            "node_2": 110,
+            "weight": 5
+        },
+        {
+            "node_1": 111,
+            "node_2": 112,
+            "weight": 5
+        },
+        {
+            "node_1": 113,
+            "node_2": 114,
+            "weight": 5
+        },
+        {
+            "node_1": 119,
+            "node_2": 120,
+            "weight": 2
+        },
+        {
+            "node_1": 120,
+            "node_2": 67,
+            "weight": 4
+        },
+        {
+            "node_1": 67,
+            "node_2": 121,
+            "weight": 3
+        },
+        {
+            "node_1": 121,
+            "node_2": 122,
+            "weight": 1.5
+        },
+        {
+            "node_1": 122,
+            "node_2": 123,
+            "weight": 1.5
+        },
+        {
+            "node_1": 123,
+            "node_2": 66,
+            "weight": 4
+        },
+        {
+            "node_1": 66,
+            "node_2": 124,
+            "weight": 3
+        },
+        {
+            "node_1": 124,
+            "node_2": 125,
+            "weight": 2
+        },
+        {
+            "node_1": 125,
+            "node_2": 64,
+            "weight": 4
+        },
+        {
+            "node_1": 64,
+            "node_2": 126,
+            "weight": 4
+        },
+        {
+            "node_1": 126,
+            "node_2": 127,
+            "weight": 1.5
+        },
+        {
+            "node_1": 127,
+            "node_2": 128,
+            "weight": 3
+        },
+        {
+            "node_1": 128,
+            "node_2": 63,
+            "weight": 4
+        },
+        {
+            "node_1": 62,
+            "node_2": 63,
+            "weight": 2.5
+        },
+        {
+            "node_1": 62,
+            "node_2": 57,
+            "weight": 1.5
+        },
+        {
+            "node_1": 62,
+            "node_2": 56,
+            "weight": 1.5
+        },
+        {
+            "node_1": 57,
+            "node_2": 63,
+            "weight": 1.5
+        },
+        {
+            "node_1": 70,
+            "node_2": 121,
+            "weight": 2.5
+        },
+        {
+            "node_1": 70,
+            "node_2": 123,
+            "weight": 2
+        },
+        {
+            "node_1": 7,
+            "node_2": 69,
+            "weight": 0.5
+        },
+        {
+            "node_1": 9,
+            "node_2": 71,
+            "weight": 0.5
+        },
+        {
+            "node_1": 13,
+            "node_2": 73,
+            "weight": 0.5
+        },
+        {
+            "node_1": 15,
+            "node_2": 75,
+            "weight": 0.5
+        },
+        {
+            "node_1": 17,
+            "node_2": 77,
+            "weight": 0.5
+        },
+        {
+            "node_1": 19,
+            "node_2": 79,
+            "weight": 0.5
+        },
+        {
+            "node_1": 21,
+            "node_2": 81,
+            "weight": 0.5
+        },
+        {
+            "node_1": 23,
+            "node_2": 83,
+            "weight": 0.5
+        },
+        {
+            "node_1": 25,
+            "node_2": 85,
+            "weight": 0.5
+        },
+        {
+            "node_1": 27,
+            "node_2": 87,
+            "weight": 0.5
+        },
+        {
+            "node_1": 29,
+            "node_2": 89,
+            "weight": 0.5
+        },
+        {
+            "node_1": 31,
+            "node_2": 91,
+            "weight": 0.5
+        },
+        {
+            "node_1": 33,
+            "node_2": 93,
+            "weight": 0.5
+        },
+        {
+            "node_1": 35,
+            "node_2": 95,
+            "weight": 0.5
+        },
+        {
+            "node_1": 37,
+            "node_2": 97,
+            "weight": 0.5
+        },
+        {
+            "node_1": 39,
+            "node_2": 99,
+            "weight": 0.5
+        },
+        {
+            "node_1": 41,
+            "node_2": 101,
+            "weight": 0.5
+        },
+        {
+            "node_1": 43,
+            "node_2": 103,
+            "weight": 0.5
+        },
+        {
+            "node_1": 45,
+            "node_2": 105,
+            "weight": 0.5
+        },
+        {
+            "node_1": 47,
+            "node_2": 107,
+            "weight": 0.5
+        },
+        {
+            "node_1": 49,
+            "node_2": 109,
+            "weight": 0.5
+        },
+        {
+            "node_1": 51,
+            "node_2": 111,
+            "weight": 0.5
+        },
+        {
+            "node_1": 55,
+            "node_2": 113,
+            "weight": 0.5
+        },
+        {
+            "node_1": 72,
+            "node_2": 129,
+            "weight": 0.5
+        },
+        {
+            "node_1": 74,
+            "node_2": 129,
+            "weight": 0.5
+        },
+        {
+            "node_1": 129,
+            "node_2": 65,
+            "weight": 5
+        },
+        {
+            "node_1": 65,
+            "node_2": 130,
+            "weight": 5
+        },
+        {
+            "node_1": 92,
+            "node_2": 65,
+            "weight": 0.5
+        },
+        {
+            "node_1": 110,
+            "node_2": 130,
+            "weight": 0.5
+        },
+        {
+            "node_1": 123,
+            "node_2": 129,
+            "weight": 2
+        },
+        {
+            "node_1": 64,
+            "node_2": 130,
+            "weight": 1.5
+        },
+        {
+            "node_1": 130,
+            "node_2": 127,
+            "weight": 3.5
+        },
+        {
+            "node_1": 59,
+            "node_2": 58,
+            "weight": 2.5
+        },
+        {
+            "node_1": 42,
+            "node_2": 58,
+            "weight": 0.5
+        },
+        {
+            "node_1": 52,
+            "node_2": 132,
+            "weight": 0.5
+        },
+        {
+            "node_1": 132,
+            "node_2": 61,
+            "weight": 1
+        },
+        {
+            "node_1": 59,
+            "node_2": 60,
+            "weight": 1.5
+        },
+        {
+            "node_1": 60,
+            "node_2": 61,
+            "weight": 3.5
+        },
+        {
+            "node_1": 61,
+            "node_2": 115,
+            "weight": 1
+        },
+        {
+            "node_1": 115,
+            "node_2": 118,
+            "weight": 3.5
+        },
+        {
+            "node_1": 118,
+            "node_2": 133,
+            "weight": 2.5
+        },
+        {
+            "node_1": 118,
+            "node_2": 117,
+            "weight": 1
+        },
+        {
+            "node_1": 26,
+            "node_2": 131,
+            "weight": 0.5
+        }
+    ],
+    "product_locations": [
+        {
+            "ground beef": 64,
+            "milk": 122,
+            "spaghetti noodles": 95,
+            "chocolate bar": 53,
+            "cereal": 99,
+            "marinara sauce": 95,
+            "bread": 62,
+            "sausage": 125,
+            "cheese": 122,
+            "lettuce": 128,
+            "purple onion": 63,
+            "chicken": 126,
+            "birthday card": 44,
+            "shampoo": 29,
+            "cat litter": 12,
+            "gatorade": 3,
+            "frozen burrito": 67,
+            "tortilla chips": 65,
+            "cucumber": 127,
+            "wine": 116,
+            "crackers": 105,
+            "grapes": 128,
+            "alfredo sauce": 95,
+            "olives": 97
+        }
+    ]
+}

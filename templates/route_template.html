@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    <style type="text/css">
+        body {
+            margin:40px auto;
+            max-width:650px;
+            line-height:1.6;
+            font-size:18px;
+            color:#444;
+            padding:0 10px
+        }
+        h1,h2,h3 {
+            line-height:1.2
+        }
+    </style>
+</head>
+<body>
+    <h1>This is the {{ route }} API endpoint.</h1>
+    <p>{{ description }}</p>
+    <ul>
+        <li><strong>Input:</strong> { "groceries": ["wine", "milk", "cheese", "crackers", "grapes", "spaghetti noodles", "alfredo sauce", "olives"] }</li>
+        <li><strong>Output:</strong> { "optimal_path": [1, 131, 2, 18, 16, 14, 12, 13, 73, 74, 129, 123, 122, 123, 129, 65, 130, 127, 128, 63, 57, 55, 53, 51, 49, 47, 45, 105, 45, 47, 49, 51, 53, 52, 132, 61, 115, 118, 117, 116, 117, 118, 115, 61, 132, 52, 50, 48, 46, 44, 42, 40, 38, 36, 37, 97, 95, 35, 33, 31, 29, 27, 26, 131, 1] }</li>
+    </ul>
+</body>
+</html>

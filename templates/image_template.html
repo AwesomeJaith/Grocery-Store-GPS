@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    <style type="text/css">
+        body {
+            margin:40px auto;
+            max-width: 75%;
+            line-height:1.6;
+            font-size:18px;
+            color:#444;
+            padding:0 10px
+        }
+        h1,h2,h3 {
+            line-height:1.2
+        }
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Optimal Route</h1>
+    <p>{{ labeled_route }}</p>
+    <img src="{{ url_for('static', filename='temp_store_map_path.png') }}" class="center">
+</body>
+</html>
